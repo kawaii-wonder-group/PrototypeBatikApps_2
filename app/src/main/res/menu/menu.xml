@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menubottomColoring"
+        android:enabled="true"
+        android:icon="@drawable/bottom_coloring_grey"
+        android:title="Coloring"/>
+    <item
+        android:id="@+id/menubottonCreate"
+        android:enabled="true"
+        android:icon="@drawable/bottom_create_grey"
+        android:title="Create"/>
+    <item
+        android:id="@+id/menubottomMyworks"
+        android:enabled="true"
+        android:icon="@drawable/bottom_myworls_grey"
+        android:title="My Works"/>
+</menu>
+

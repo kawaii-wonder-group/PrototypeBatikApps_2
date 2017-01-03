@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.diefel.prototypebatikapps_2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_batik4"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".OpeningScreen"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainMenuActivity"
+            android:label="Main Apps"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name=".FragmentModernColoring"
+            android:label="Modern Coloring"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name=".FragmentTraditionalColoring"
+            android:label="Traditional Coloring"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name=".TestPopUp"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.CustomTheme" />
+
+    </application>
+
+</manifest>
