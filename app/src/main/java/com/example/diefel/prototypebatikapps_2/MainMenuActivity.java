@@ -40,8 +40,6 @@ public class MainMenuActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //deklar fragment dlu
-        //Get the view
 
         final BottomNavigationView bottomNavigationView = (BottomNavigationView)
                 findViewById(R.id.bottom_navigation);
@@ -57,27 +55,17 @@ public class MainMenuActivity extends AppCompatActivity {
                             break;
 
                         case R.id.menubottonCreate:
-                            //Do something...
-                            //fragment = new FragmentCreate();
                             fragment = new DrawingFun();
-                            /*fragmentManager = getSupportFragmentManager();
-                            FragmentTransaction transaction2 = fragmentManager.beginTransaction();
-                            transaction2.replace(R.id.main_container, fragment).addToBackStack(null).commit();*/
                             break;
 
                         case R.id.menubottomMyworks:
-                            //Do something...
                             fragment = new FragmentMyworks();
-                            /*fragmentManager = getSupportFragmentManager();
-                            FragmentTransaction transaction3 = fragmentManager.beginTransaction();
-                            transaction3.replace(R.id.main_container, fragment).addToBackStack(null).commit();*/
                             break;
                         default:
                             break;
                     }
                     if (fragment != null)
                     {
-                        //replace SongFragment
                         replaceFragment(fragment);
                     }
                     return true;
@@ -97,17 +85,8 @@ public class MainMenuActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         bgmusic = MediaPlayer.create(MainMenuActivity.this,R.raw.cublak2_suweng);
-        //bgmusic.setLooping(true);
         bgmusic.start();
-        //finish();
     }
-
-    /*@Override
-    protected void onPause() {
-        super.onPause();
-        //bgmusic.release();
-        //finish();
-    }*/
 
     @Override
     protected void onStop() {
@@ -123,8 +102,6 @@ public class MainMenuActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.menu_option, menu);
-        /*Intent i = new Intent(getApplicationContext(),TestPopUp.class);
-        startActivity(i);*/
         return super.onCreateOptionsMenu(menu);
     }
 }

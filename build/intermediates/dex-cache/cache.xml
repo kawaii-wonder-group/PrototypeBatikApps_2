@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_55acd63e03b46cf11a9a27915d957be08afefde1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_234a9e9765b0422699f12d6dd1bbc78926f60c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_e1250f58e1d212d7b0d65032a254b95b7dfbd6a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.1.0_1bd3f3fe6addbdcf767fb8e95c5a27096ee1b3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_479a3f47c2bf72836ab005d78c5551e140bb111b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f88b29728a125ea2c77fec64599ced1265e0f175">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_253024c04e4cdeadf1ef4b16f2d916bae29a7026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="11c65e5dbd6efd9f40b66d68fe7863dae1801174">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f6274e05606c4d8a47f9750502ae55a8e9ad55a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_b3f92731f4751c0ccef29c55a9cf6512f261c59e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_cab563796acffa531e3d9b806e2e367ea85ede10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_c1ce3071fb07655913a6e3bbec653d6efd73a7e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ae6d95edc85a3d2b73361e3d52cd53fc3239ae65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_09ce7da28ac56886b333ea4be244f9ee057366f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asus\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_8137008cdd700bba3ee0ea70aea61624171032fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_9c8aa9de5b06d3fd7b49c3e059e4f876f08ceb74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_77c0f8fd52f5ba319e8fa381cdc0327f98364f4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_b69e8f7d50fbc6d201459192c4b22c6755af4434\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_d04e1a418b86892cc119cbfc4c1768e1d9ffbfb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_b5465c3d7c25131fa70c65c432d7d32c0658c6dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_3fcbc0e39854e49e6ad31d2571280e2a5527db44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\workspace\PrototypeBatikApps_2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6b95611226856d56e28f5097ee691e43f09562a5\classes.dex" />
+    </item>
+
+</items>

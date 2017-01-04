@@ -35,6 +35,8 @@ public class FragmentMyworks extends Fragment {
         mSlidingTabLayout.setSelectedIndicatorColors(getResources().getColor(R.color.colorWhite));
         mSlidingTabLayout.setCustomTabView(R.layout.fragmetn_myworks_tab_view, R.id.tv_myworksTab);
         mSlidingTabLayout.setViewPager(mViewPager);
+
+
         return v;
     }
 
